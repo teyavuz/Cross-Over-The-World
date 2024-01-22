@@ -8,12 +8,11 @@ I developed my <b>publish-ready</b> game, "Cross The Madness," in a total of 1.5
 
 ## SOME FEATURES
 
->**URP**
->**PROCEDURAL LEVEL GENERATION**
->**LOCAL BEST SCORE**
-> **UNITY ADS**
-> **CLASSIC TOUCH INPUT**
-> **COLLECTIBLES**
-> **HEALTH SYSTEM**
-> **OBSTACLES**
-
+ - **URP**  
+ -   **PROCEDURAL LEVEL GENERATION**  
+ -   **LOCAL BEST SCORE**  
+ -   **UNITY ADS**  
+ -   **CLASSIC TOUCH INPUT**  
+ -   **COLLECTIBLES** 
+ -    **HEALTH SYSTEM**  
+ -   **OBSTACLES**
